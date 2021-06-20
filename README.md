@@ -9,5 +9,5 @@
 ![Hal](README/Hello.webp)
 
 <h2 align="center">Daftar Course</h2>
-<img src='README/Languages.png' align="center" height="10000px" width="10000px"/>
+<img src='README/Languages.png' align="center" height="15000px" width="auto"/>
 
