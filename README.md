@@ -6,8 +6,9 @@
 
 <p>Progate adalah platform pembelajaran pemrograman secara online yang tersedia dalam bahasa Indonesia dan Inggris. Dengan Progate kamu dapat belajar secara mandiri dengan cara yang menyenangkan. Terdapat beberapa course yang tersedia di Progate, seperti HTML, CSS, Python, dan masih banyak lagi</p>
 
+![Hal](README/Hello.webp)
 
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong>****** Course</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size: 20px;">Daftar Course</span></strong></p>
 <ul style="list-style-type: undefined;">
     <li>HTML &amp; CSS</li>
     <li>JavaScript</li>
